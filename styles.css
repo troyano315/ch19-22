@@ -1,0 +1,27 @@
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+   
+   color: blue
+}
+
+#topics-list {
+    font-style: italilc;
+}
+
+
+.tool {
+    color: orange
+}
+
+.lang {
+    color: green;
+}
+
+
+p.lang {
+    font-style: italic;
+}
